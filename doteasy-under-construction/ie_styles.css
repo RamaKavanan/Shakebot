@@ -1,0 +1,26 @@
+a{
+	color: #fff;
+}
+p {
+	color: #fff;
+}
+div#activatedContainer div{
+	color: #000000;
+}
+div#gettingStarted {
+	color: #ffffff;
+}
+div#gettingStarted div.title,
+div#hostingApps div.title,
+div#needHelpContainer div.title,
+div#followDoteasyContainer div.title {
+	color: #fff;
+}
+div#protectEmailContainer div.subtitle,
+div#cloudContainer div.subtitle,
+div#managedHostingContainer div.subtitle {
+	color: #fff;
+}
+div#managedHostingContainer ul li span.regular{
+	color: #fff;
+}

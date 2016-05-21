@@ -1,0 +1,135 @@
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/avirgile/public_html/lib/functions/functions.php on line 6
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 8
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 14
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 15
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 83
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 84
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 24
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 25
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 43
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 44
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 53
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 54
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 73
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 74
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 63
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 64
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 93
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 94
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 34
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 35
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 125
+[11-Dec-2014 15:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 126
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/avirgile/public_html/lib/functions/functions.php on line 6
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 8
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 14
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 15
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 83
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 84
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 24
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 25
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 43
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 44
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 53
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 54
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 73
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 74
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 63
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 64
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 93
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 94
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 34
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 35
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 125
+[11-Dec-2014 15:13:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 126
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/avirgile/public_html/lib/functions/functions.php on line 6
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 8
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 14
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 15
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 83
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 84
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 24
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 25
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 43
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 44
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 53
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 54
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 73
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 74
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 63
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 64
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 93
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 94
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 34
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 35
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 125
+[11-Dec-2014 15:14:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 126
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/avirgile/public_html/lib/functions/functions.php on line 3
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/avirgile/public_html/lib/functions/functions.php on line 6
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 8
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 14
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 15
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 83
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 84
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 24
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 25
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 43
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 44
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 53
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 54
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 73
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 74
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 63
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 64
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 93
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 94
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 115
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 116
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 34
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 35
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/lib/functions/functions.php on line 125
+[11-Dec-2014 15:16:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/lib/functions/functions.php on line 126
+[11-Dec-2014 15:28:39 UTC] PHP Notice:  Undefined index: loggedinuser in /home/avirgile/public_html/config.php on line 7
+[11-Dec-2014 15:28:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/avirgile/public_html/loginuser.php on line 12
+[11-Dec-2014 15:28:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/avirgile/public_html/loginuser.php on line 27
+[11-Dec-2014 15:28:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/avirgile/public_html/loginuser.php on line 30
+[11-Dec-2014 15:28:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/config.php:7) in /home/avirgile/public_html/loginuser.php on line 45
+[11-Dec-2014 15:45:00 UTC] PHP Notice:  Undefined index: loggedinuser in /home/avirgile/public_html/config.php on line 7
+[11-Dec-2014 15:45:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/config.php:7) in /home/avirgile/public_html/loginuser.php on line 45
+[11-Dec-2014 15:45:59 UTC] PHP Notice:  Undefined index: loggedinuser in /home/avirgile/public_html/config.php on line 7
+[11-Dec-2014 15:45:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/config.php:7) in /home/avirgile/public_html/loginuser.php on line 45
+[11-Dec-2014 15:46:05 UTC] PHP Notice:  Undefined index: loggedinuser in /home/avirgile/public_html/config.php on line 7
+[11-Dec-2014 15:46:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/config.php:7) in /home/avirgile/public_html/loginuser.php on line 45
+[11-Dec-2014 15:46:16 UTC] PHP Notice:  Undefined index: loggedinuser in /home/avirgile/public_html/config.php on line 7
+[11-Dec-2014 15:46:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/avirgile/public_html/loginuser.php on line 36
+[11-Dec-2014 15:46:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/config.php:7) in /home/avirgile/public_html/loginuser.php on line 41
+[11-Dec-2014 15:46:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/avirgile/public_html/loginuser.php on line 36
+[11-Dec-2014 15:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/loginuser.php:31) in /home/avirgile/public_html/loginuser.php on line 41
+[11-Dec-2014 15:47:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/avirgile/public_html/loginuser.php:33) in /home/avirgile/public_html/loginuser.php on line 38
+[11-Dec-2014 15:47:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/loginuser.php:33) in /home/avirgile/public_html/loginuser.php on line 43
+[11-Dec-2014 15:47:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/loginuser.php:33) in /home/avirgile/public_html/loginuser.php on line 43

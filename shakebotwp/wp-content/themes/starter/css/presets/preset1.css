@@ -1,0 +1,34 @@
+/* anchor */
+a,
+#navigation .navbar-nav li.current-menu-item a,
+#navigation .navbar-nav > li.current-menu-parent > a,
+.team-box ul.social li a{
+  color: #00ade7;
+  /*color: #4cddf3;*/
+}
+#navigation .navbar-nav li.current-menu-item a{
+  color: #555;
+  background: #eee;
+}
+
+#navigation .navbar-nav > li.current-menu-parent a{
+	color: #555;
+	background: #eee;
+}
+
+/*#navigation .navbar-nav > li.current-menu-parent,
+.team-box ul.social li
+{
+	background: #eee;
+}*/
+
+
+a:hover{
+  color:#48CEE2;
+}
+
+.team-box:hover {
+	background: #4CDDF3;
+}
+
+ /*menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item*/

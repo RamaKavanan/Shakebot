@@ -1,0 +1,1 @@
+[09-Oct-2015 09:29:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/avirgile/public_html/shakebotwp/wp-content/plugins/wordpress-social-login/hybridauth/endpoints/WSL_Endpoint.php:156) in /home/avirgile/public_html/shakebotwp/wp-content/plugins/simplemodal-login/simplemodal-login.php on line 111
